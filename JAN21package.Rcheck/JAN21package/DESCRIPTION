@@ -9,8 +9,14 @@ Authors@R:
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: What the package does (one paragraph).
 Imports: stats
-License: `GPL(>=2)
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+        license
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
+NeedsCompilation: no
+Packaged: 2021-01-21 13:53:08 UTC; ecoart
+Author: First Last [aut, cre] (YOUR-ORCID-ID)
+Maintainer: First Last <first.last@example.com>
+Built: R 4.0.3; ; 2021-01-21 13:53:12 UTC; windows
